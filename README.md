@@ -56,6 +56,8 @@ Prevents data loss in case of errors.
 ## 📸 MySQL Database Screenshot
 
 ![Database Screenshot](https://github.com/user-attachments/assets/d30aa3a8-b50d-4979-834e-6ada6cf75643)
+![Database Screenshot](https://github.com/user-attachments/assets/b47d726f-8c6d-4b11-b670-e81759064045)
+
 
 🚀 Future Enhancements
 Add validation (e.g., balance should not go negative)
